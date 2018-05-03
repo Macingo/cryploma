@@ -10,8 +10,10 @@
     4.1 [Unlock ETH account](https://www.myetherwallet.com/#send-transaction)
   
     4.2 [Convert certified message into hex form](http://string-functions.com/string-hex.aspx)
+    ![text2hex](text2hex.png)
   
     4.3 Paste the hex message into "Input Data" field
+    ![datafield](datafield.png)
   
     4.4 Confirm the transaction
 
