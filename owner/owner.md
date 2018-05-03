@@ -11,8 +11,8 @@
 6.  Sign the message within the limited time range to prove the ownership of this address
 
     1.1 [Input the one-time message](https://www.myetherwallet.com/signmsg.html) from validator
-    1.2 Return the whole JSON message to validator for checking
-    ![sign](signmsg.png)
+    1.2 Return the signature to validator for final checking
+    ![signature-eth](signature-eth.png)
     
 
 
