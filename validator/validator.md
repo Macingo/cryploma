@@ -14,8 +14,6 @@
 3.  Send one-time message to the job seeker for signature of signed message
 
 4.  [Verify](https://www.myetherwallet.com/signmsg.html) if this signature indicates the ownership of the job seeker 
-
-5.  Wait for validator prompting the signing message
   ![valid-addr](valid-addr.png)
 
     
