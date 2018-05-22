@@ -11,8 +11,11 @@
 6.  Sign the message within the limited time range to prove the ownership of this address
 
     1.1 [Input the one-time message](https://www.myetherwallet.com/signmsg.html) from the validator
+    
     1.2 Return the signature to validator for the final checking
     ![signature-eth](signature-eth.png)
+    
+    1.3 You can also return a [link](https://etherscan.io/verifySig/1149) to the validator for the final checking
     
 
 
