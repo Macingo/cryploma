@@ -7,4 +7,4 @@ Please read the instructions for different entities in the separate folders.
 
 [Prototype Demo Video](https://youtu.be/1OpFjKLX8HQ)
 
-[Presentation Slide]()
+[Presentation Slide](https://docs.google.com/presentation/d/1lNQpzwpCtQ8r9bRwR3pj7g6LK1KpBV9T0XUK-_A5njE/edit?usp=sharing)
